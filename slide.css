@@ -1,0 +1,24 @@
+.Firstview{
+  margin: 20px;
+  padding-bottom: 20px;
+  width:800px;
+  color: white;
+  background-color: black
+  
+}
+.Firstview h2{
+  padding: 30px;
+}
+.Firstview p{
+  padding-left: 120px;
+}
+
+
+.img_container{
+  width:600px;
+  padding: 20px;
+  margin: 0 auto;
+}
+.img_content img{
+  width: 100%;
+}
